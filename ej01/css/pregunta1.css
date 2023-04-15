@@ -1,0 +1,27 @@
+h1 {
+    border-bottom: 3px solid rgb(22, 143, 184);
+    width: 176px;
+}
+
+p {
+    color: #113f4f;
+}
+
+.img-section {
+    width: 300px;
+}
+
+.list {
+    list-style: none;
+    align-self: flex-end;
+}
+
+.list--link {
+    text-decoration: none;
+}
+
+.link--content {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
